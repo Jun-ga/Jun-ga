@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-ga)](https://github.com/Jun-ga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun-ga&layout=compact)](https://github.com/Jun-ga/github-readme-stats)
+
+
 <!--
 **Jun-ga/Jun-ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-ga)](https://github.com/Jun-ga/github-readme-stats)
+
 
 
 
