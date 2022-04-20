@@ -1,21 +1,18 @@
-### Hi there 👋
+### Hi, I'm JungA Choi👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-ga)](https://github.com/Jun-ga/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun-ga&layout=compact)](https://github.com/Jun-ga/github-readme-stats)
+#### 병아리의 성장일기 | 나는 커서 개발자가 될 거야
 
 
 <!--
 **Jun-ga/Jun-ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-ga)](https://github.com/Jun-ga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun-ga&layout=compact)](https://github.com/Jun-ga/github-readme-stats)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on kwangwoon 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
